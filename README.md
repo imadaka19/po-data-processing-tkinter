@@ -1,7 +1,7 @@
 ﻿# po-data-processing-tkinter
 - run untuk buat kunci
   ```bash
-  python 'buat kunci.py'
+  python '.\buat kunci.py'
   ```
 - run enkripsi
   ```bash
