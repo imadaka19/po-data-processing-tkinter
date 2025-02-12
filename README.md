@@ -1,4 +1,8 @@
 ﻿# po-data-processing-tkinter
+- install requirements
+  ```bash
+  pip install -r requirements.txt
+  ```
 - run untuk buat kunci
   ```bash
   python '.\buat kunci.py'
